@@ -11,6 +11,8 @@ public class PracticeClass2 {
 		System.out.println(url);
 		String b = System.getProperty("browser");
 		System.out.println(b);
+		String un = System.getProperty("username");
+		System.out.println(un);
 		System.out.println("test2");
 	}
 
